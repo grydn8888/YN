@@ -1,0 +1,8 @@
+{
+  "name": "Remix Yes No Oracle",
+  "description": "A black and white elementary Oracle decision game with question database, pulsing orb animation, and 12-round history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
